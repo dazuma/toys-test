@@ -11,7 +11,7 @@ on:
 
 jobs:
   tests:
-    if: ${{ github.repository == 'dazuma/toys' }}
+    if: ${{ github.repository == 'dazuma/toys-test' }}
     strategy:
       matrix:
         include:

@@ -6,7 +6,7 @@ on:
 
 jobs:
   release-process-request:
-    if: ${{ github.repository == 'dazuma/toys' }}
+    if: ${{ github.repository == 'dazuma/toys-test' }}
     env:
       ruby_version: "2.7"
     runs-on: ubuntu-latest

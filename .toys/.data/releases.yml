@@ -1,4 +1,4 @@
-repo: dazuma/toys
+repo: dazuma/toys-test
 git_user_name: Daniel Azuma
 git_user_email: dazuma@gmail.com
 docs_builder_tool: [yardoc]
