@@ -1,5 +1,9 @@
 # Release History
 
+### v0.12.0 / 2021-01-11
+
+* FIXED: Rdoc template now works on Ruby 3 
+
 ### v0.11.4 / 2020-10-11
 
 * FIXED: Doesn't modify bundler lockfiles when adding Toys to a bundle
